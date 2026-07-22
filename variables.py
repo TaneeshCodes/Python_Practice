@@ -34,3 +34,4 @@ if is_student == 1:
 else:
     print("You are not a student")
 
+#Test
